@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="androin-th-y-huy">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/baitapthayhuy.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Lab3Bai2.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
